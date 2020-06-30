@@ -7,3 +7,8 @@ This is a repository of useful links I've collected, with the intension of study
 - [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability) - an incredible resource for all things related to scaling.
 - [Backend Lore](https://github.com/fpereiro/backendlore) - an incredible and insightful read about designing backend systems.
 - [Design patterns](https://refactoring.guru/design-patterns/catalog) - A great writeup and introduction to common software design patterns.
+
+
+# Recommended books
+- The pragmatic programmer
+- [Growing object oriented software guided by tests](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests)
