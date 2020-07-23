@@ -9,6 +9,7 @@ This is a repository of useful links I've collected, with the intension of study
 - [Design patterns](https://refactoring.guru/design-patterns/catalog) - A great writeup and introduction to common software design patterns.
 - [Rust in 30 minutes](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Learn in X minutes](https://learnxinyminutes.com/)
+- [https://www.benkuhn.net/progessays/](Essays about programming)
 
 
 # Recommended books
