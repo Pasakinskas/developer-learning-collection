@@ -16,3 +16,8 @@ This is a repository of useful links I've collected, with the intension of study
 - The pragmatic programmer
 - [Growing object oriented software guided by tests](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests)
 - [Grokking Algorithms](https://www.amazon.co.uk/dp/1617292230/ref=as_li_qf_asin_il_tl?ie=UTF8&linkCode=gs2&linkId=b5f611523b554c2c7f33d97e62b6870b&creativeASIN=1617292230&tag=gregdoesit-21&creative=9325)
+
+# Interesting Communities
+- news.ycombinator.com
+- lobste.rs
+- https://www.indiehackers.com
