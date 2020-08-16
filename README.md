@@ -9,7 +9,7 @@ This is a repository of useful links I've collected, with the intension of study
 - [Design patterns](https://refactoring.guru/design-patterns/catalog) - A great writeup and introduction to common software design patterns.
 - [Rust in 30 minutes](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Learn in X minutes](https://learnxinyminutes.com/)
-- [https://www.benkuhn.net/progessays/](Essays about programming)
+- [benkuhn.net: Essays about programming](https://www.benkuhn.net/progessays/)
 
 
 # Recommended books
@@ -18,6 +18,6 @@ This is a repository of useful links I've collected, with the intension of study
 - [Grokking Algorithms](https://www.amazon.co.uk/dp/1617292230/ref=as_li_qf_asin_il_tl?ie=UTF8&linkCode=gs2&linkId=b5f611523b554c2c7f33d97e62b6870b&creativeASIN=1617292230&tag=gregdoesit-21&creative=9325)
 
 # Interesting Communities
-- news.ycombinator.com
-- lobste.rs
+- https://news.ycombinator.com
+- https://lobste.rs
 - https://www.indiehackers.com
