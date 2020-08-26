@@ -40,3 +40,4 @@ https://refactoring.guru/design-patterns/catalog - design patterns
 https://github.com/fpereiro/backendlore -- the best backend writeup I've ever found
 https://graphql.org/ - a way to replace REST endpoints.
 https://2019.stateofjs.com/ -- annual javascript survey (lots of insight on what's coming)
+https://missing.csail.mit.edu/ -- Missing semester of your computer science education
