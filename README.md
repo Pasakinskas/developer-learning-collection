@@ -21,3 +21,22 @@ This is a repository of useful links I've collected, with the intension of study
 - https://news.ycombinator.com
 - https://lobste.rs
 - https://www.indiehackers.com
+
+
+# to share with others
+
+// cool youtube stuff
+https://www.youtube.com/watch?v=8aGhZQkoFbQ -- javascript event loop
+https://www.youtube.com/watch?v=RBSGKlAvoiM -- data structures. Easy to advanced (8hrs)
+https://www.youtube.com/watch?v=e-5obm1G_FY -- functional javascript
+https://www.youtube.com/watch?v=t0HGrQN6ZJw -- Osvaldas Grigas 'Name stuff' - better naming conventions
+https://www.youtube.com/watch?v=IiwGbcd8S7I -- Vim crash course (will make you more comfortable using terminals)
+
+// books n readables
+https://roadmap.sh/frontend -- frontend learning roadmap
+https://github.com/getify/You-Dont-Know-JS (2nd edition where applicable, 1st everywhere else)
+https://eloquentjavascript.net/ -- eloquent Javascript
+https://refactoring.guru/design-patterns/catalog - design patterns
+https://github.com/fpereiro/backendlore -- the best backend writeup I've ever found
+https://graphql.org/ - a way to replace REST endpoints.
+https://2019.stateofjs.com/ -- annual javascript survey (lots of insight on what's coming)
