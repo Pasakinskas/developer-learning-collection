@@ -32,12 +32,17 @@ https://www.youtube.com/watch?v=e-5obm1G_FY -- functional javascript
 https://www.youtube.com/watch?v=t0HGrQN6ZJw -- Osvaldas Grigas 'Name stuff' - better naming conventions
 https://www.youtube.com/watch?v=IiwGbcd8S7I -- Vim crash course (will make you more comfortable using terminals)
 
-// books n readables
+
+// small readables
+https://www.internalpointers.com/post/gentle-introduction-multithreading -- gentle introduction to threading
+https://github.com/fpereiro/backendlore -- the best backend writeup I've ever found
+https://2019.stateofjs.com/ -- annual javascript survey (lots of insight on what's coming)
+
+
+// Big readables
 https://roadmap.sh/frontend -- frontend learning roadmap
 https://github.com/getify/You-Dont-Know-JS (2nd edition where applicable, 1st everywhere else)
 https://eloquentjavascript.net/ -- eloquent Javascript
 https://refactoring.guru/design-patterns/catalog - design patterns
-https://github.com/fpereiro/backendlore -- the best backend writeup I've ever found
-https://graphql.org/ - a way to replace REST endpoints.
-https://2019.stateofjs.com/ -- annual javascript survey (lots of insight on what's coming)
 https://missing.csail.mit.edu/ -- Missing semester of your computer science education
+
