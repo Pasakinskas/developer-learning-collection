@@ -29,18 +29,19 @@ This is a repository of useful links I've collected, with the intension of study
 # Share
 
 // cool youtube stuff
-- https://www.youtube.com/watch?v=8aGhZQkoFbQ -- javascript event loop
-- https://www.youtube.com/watch?v=RBSGKlAvoiM -- data structures. Easy to advanced (8hrs)
-- https://www.youtube.com/watch?v=e-5obm1G_FY -- functional javascript
+- https://www.youtube.com/watch?v=8aGhZQkoFbQ -- Javascript event loop
+- https://www.youtube.com/watch?v=RBSGKlAvoiM -- Data structures. Easy to advanced (8hrs)
+- https://www.youtube.com/watch?v=e-5obm1G_FY -- Functional javascript
 - https://www.youtube.com/watch?v=t0HGrQN6ZJw -- Osvaldas Grigas 'Name stuff' - better naming conventions
 - https://www.youtube.com/watch?v=IiwGbcd8S7I -- Vim crash course (will make you more comfortable using terminals)
-
+- https://www.youtube.com/watch?v=zg-ddPbzcKM -- Recursion
 
 // small readables
 - https://www.internalpointers.com/post/gentle-introduction-multithreading -- gentle introduction to threading
 - https://github.com/fpereiro/backendlore -- the best backend writeup I've ever found
 - https://2019.stateofjs.com/ -- annual javascript survey (lots of insight on what's coming)
-
+- https://javascript.info/currying-partials - currying
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers - Webworkers
 
 // Big readables
 - https://roadmap.sh/frontend -- frontend learning roadmap
@@ -48,4 +49,4 @@ This is a repository of useful links I've collected, with the intension of study
 - https://eloquentjavascript.net/ -- eloquent Javascript
 - https://refactoring.guru/design-patterns/catalog - design patterns
 - https://missing.csail.mit.edu/ -- Missing semester of your computer science education
-
+- https://learnxinyminutes.com/ - learn in X minutes
