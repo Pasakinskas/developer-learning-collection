@@ -11,7 +11,6 @@ This is a repository of useful links I've collected, with the intension of study
 - [Learn in X minutes](https://learnxinyminutes.com/)
 - [benkuhn.net: Essays about programming](https://www.benkuhn.net/progessays/)
 
-
 # Recommended books
 - The pragmatic programmer
 - [Growing object oriented software guided by tests](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests)
@@ -22,27 +21,31 @@ This is a repository of useful links I've collected, with the intension of study
 - https://lobste.rs
 - https://www.indiehackers.com
 
+# Scala readables
+- [Twitter Scala school](https://twitter.github.io/scala_school/)
+- [Effective Scala](http://twitter.github.io/effectivescala/)
 
-# to share with others
+
+# Share
 
 // cool youtube stuff
-https://www.youtube.com/watch?v=8aGhZQkoFbQ -- javascript event loop
-https://www.youtube.com/watch?v=RBSGKlAvoiM -- data structures. Easy to advanced (8hrs)
-https://www.youtube.com/watch?v=e-5obm1G_FY -- functional javascript
-https://www.youtube.com/watch?v=t0HGrQN6ZJw -- Osvaldas Grigas 'Name stuff' - better naming conventions
-https://www.youtube.com/watch?v=IiwGbcd8S7I -- Vim crash course (will make you more comfortable using terminals)
+- https://www.youtube.com/watch?v=8aGhZQkoFbQ -- javascript event loop
+- https://www.youtube.com/watch?v=RBSGKlAvoiM -- data structures. Easy to advanced (8hrs)
+- https://www.youtube.com/watch?v=e-5obm1G_FY -- functional javascript
+- https://www.youtube.com/watch?v=t0HGrQN6ZJw -- Osvaldas Grigas 'Name stuff' - better naming conventions
+- https://www.youtube.com/watch?v=IiwGbcd8S7I -- Vim crash course (will make you more comfortable using terminals)
 
 
 // small readables
-https://www.internalpointers.com/post/gentle-introduction-multithreading -- gentle introduction to threading
-https://github.com/fpereiro/backendlore -- the best backend writeup I've ever found
-https://2019.stateofjs.com/ -- annual javascript survey (lots of insight on what's coming)
+- https://www.internalpointers.com/post/gentle-introduction-multithreading -- gentle introduction to threading
+- https://github.com/fpereiro/backendlore -- the best backend writeup I've ever found
+- https://2019.stateofjs.com/ -- annual javascript survey (lots of insight on what's coming)
 
 
 // Big readables
-https://roadmap.sh/frontend -- frontend learning roadmap
-https://github.com/getify/You-Dont-Know-JS (2nd edition where applicable, 1st everywhere else)
-https://eloquentjavascript.net/ -- eloquent Javascript
-https://refactoring.guru/design-patterns/catalog - design patterns
-https://missing.csail.mit.edu/ -- Missing semester of your computer science education
+- https://roadmap.sh/frontend -- frontend learning roadmap
+- https://github.com/getify/You-Dont-Know-JS (2nd edition where applicable, 1st everywhere else)
+- https://eloquentjavascript.net/ -- eloquent Javascript
+- https://refactoring.guru/design-patterns/catalog - design patterns
+- https://missing.csail.mit.edu/ -- Missing semester of your computer science education
 
