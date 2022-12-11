@@ -29,6 +29,7 @@ This is a repository of useful links I've collected, with the intension of study
 - [Java Programming 8th edition](https://www.amazon.com/Java-Programming-Joyce-Farrell/dp/1285856910)
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [Clean code](https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf) - a great place to start
+- [Cracking the coding interview](https://www.crackingthecodinginterview.com/) - interview questions to practice
 
 ## Interesting Communities
 - https://news.ycombinator.com
@@ -43,6 +44,8 @@ This is a repository of useful links I've collected, with the intension of study
 - https://www.youtube.com/watch?v=IiwGbcd8S7I -- Vim crash course (will make you more comfortable using terminals)
 - https://www.youtube.com/watch?v=zg-ddPbzcKM -- Recursion
 - https://www.infoq.com/presentations/cors/ -- CORS Demystified
+- https://www.youtube.com/@tranzistorius8750 - Transistorius. System design in lithuanian
+
 
 ## Hands-on
 - [Learn git rebase](https://learngitbranching.js.org/)
