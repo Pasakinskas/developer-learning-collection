@@ -1,12 +1,15 @@
 # About
 This is a repository of useful links I've collected, with the intension of studying them to become a better developer.
 
+## Cheat sheets
+- [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) - because markdown is only getting more popular and widely used.
+- [big-o cheatsheet](https://www.bigocheatsheet.com/) - big o notation cheat sheet for data structures and basic algorithms
+
 ## Quick reads
 - https://www.internalpointers.com/post/gentle-introduction-multithreading -- gentle introduction to threading
 - https://github.com/fpereiro/backendlore -- the best backend writeup I've ever found
 - https://2021.stateofjs.com/ -- annual javascript survey (lots of insight on what's coming)
 - https://javascript.info/currying-partials - currying
-- [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) -because markdown is only getting more popular and widely used.
 - [Pragmatic programmer - a summary](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - a summary of one of the most recommended books on programming.
 - [System design for interviews](https://github.com/checkcheckzz/system-design-interview) - a quick introduction into system design.
 - [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability) - an incredible resource for all things related to scaling.
