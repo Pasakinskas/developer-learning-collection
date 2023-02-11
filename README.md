@@ -47,7 +47,8 @@ This is a repository of useful links I've collected, with the intension of study
 - https://www.youtube.com/watch?v=IiwGbcd8S7I -- Vim crash course (will make you more comfortable using terminals)
 - https://www.youtube.com/watch?v=zg-ddPbzcKM -- Recursion
 - https://www.infoq.com/presentations/cors/ -- CORS Demystified
-- https://www.youtube.com/@tranzistorius8750 - Transistorius. System design in lithuanian
+- https://www.youtube.com/@tranzistorius8750 -- Transistorius. System design in lithuanian
+- https://www.youtube.com/watch?v=8fi7uSYlOdc -- Containers From Scratch. Deep dive on containers, how one is made
 
 
 ## Hands-on
