@@ -4,6 +4,7 @@ This is a repository of useful links I've collected, with the intension of study
 ## Cheat sheets
 - [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) - because markdown is only getting more popular and widely used.
 - [big-o cheatsheet](https://www.bigocheatsheet.com/) - big o notation cheat sheet for data structures and basic algorithms
+- [docker compose cheatsheet](https://devhints.io/docker-compose) - basic parts that are used in docker-compose files
 
 ## Quick reads
 - https://www.internalpointers.com/post/gentle-introduction-multithreading -- gentle introduction to threading
