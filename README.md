@@ -14,9 +14,9 @@ This is a repository of useful links I've collected, with the intension of study
 - [Pragmatic programmer - a summary](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - a summary of one of the most recommended books on programming.
 - [System design for interviews](https://github.com/checkcheckzz/system-design-interview) - a quick introduction into system design.
 - [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability) - an incredible resource for all things related to scaling.
-- [Backend Lore](https://github.com/fpereiro/backendlore) - an incredible and insightful read about designing backend systems.
 - [Design patterns](https://refactoring.guru/design-patterns/catalog) - A great writeup and introduction to common software design patterns.
 - [Essays about programming](https://www.benkuhn.net/progessays/) - a curated list of great programming essays and opinions
+- [System design interview guide](https://interviewing.io/guides/system-design-interview) - a really nice writeup of how to approach system design challenges
 
 ## Bigger, long term projects
 - https://roadmap.sh/frontend -- frontend learning roadmap
